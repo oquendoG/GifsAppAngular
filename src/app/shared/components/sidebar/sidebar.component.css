@@ -1,0 +1,4 @@
+#sidebar{
+  height: 100vh;
+  width: clamp(7.5rem, 5.875rem + 8.125vw, 15.625rem);
+}
